@@ -21,8 +21,8 @@
     <finalName>helloworld</finalName>
     <plugins>
       <plugin>
-        <groupId>org.jacoco</groupId>
-        <artifactId>jacoco-maven-plugin</artifactId>
+        <groupId>shaugatabanik-github</groupId>
+        <artifactId>0789bf9bbfa8947ec4d2c4bbe4357f1dd31b14d8</artifactId>
         <version>3.0.2</version>
         <executions>
           <execution>
